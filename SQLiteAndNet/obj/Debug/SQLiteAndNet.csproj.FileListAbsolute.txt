@@ -1,0 +1,14 @@
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\SQLiteAndNet.exe.config
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\SQLiteAndNet.exe
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\SQLiteAndNet.pdb
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\EntityFramework.dll
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\System.Data.SQLite.dll
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\EntityFramework.xml
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\bin\Debug\System.Data.SQLite.xml
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\obj\Debug\SQLiteAndNet.csprojResolveAssemblyReference.cache
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\obj\Debug\SQLiteAndNet.exe
+c:\users\ccuevam\documents\visual studio 2013\Projects\SQLiteAndNet\SQLiteAndNet\obj\Debug\SQLiteAndNet.pdb
